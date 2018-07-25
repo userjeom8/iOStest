@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "8ec577dd1f1fd1045b6615f85e4f2fc0"
+build_time: [1528199142, 421903000]
+inputs:
+  "/Users/djobukata/Desktop/ios_app_center/app_center/app_center/ViewController.swift": [9223372036, 854775807]
+  "/Users/djobukata/Desktop/ios_app_center/app_center/app_center/AppDelegate.swift": [9223372036, 854775807]
